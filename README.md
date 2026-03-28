@@ -67,5 +67,10 @@ The database is structured specifically to support a **Student/Admin Web Portal*
 
 ---
 
-**Developed by Balaharish S**  
-[GitHub](https://github.com/balax-24) | [Instagram](https://www.instagram.com/balax.24/)
+## 👤 Author
+<div align="center">
+
+Made with ❤️ by [Balaharish](https://balaharish.netlify.app)  
+🔗 GitHub: [Balax-24](https://github.com/balax-24)  
+
+</div>
