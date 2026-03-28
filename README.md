@@ -69,7 +69,7 @@ The database is structured specifically to support a **Student/Admin Web Portal*
 
 ## 📦 APK Download
 
-👉 [Download the Latest APK]()  
+👉 [Download the Latest APK](https://github.com/balax-24/Internzz_attendance/releases/download/v2.0/Smart.Attend.v2.0.apk)  
 
 ---
 
