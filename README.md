@@ -67,6 +67,12 @@ The database is structured specifically to support a **Student/Admin Web Portal*
 
 ---
 
+## 📦 APK Download
+
+👉 [Download the Latest APK]()  
+
+---
+
 ## 👤 Author
 <div align="center">
 
