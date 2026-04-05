@@ -10,7 +10,7 @@
     "Added Offline Face Recognition",
     "Hardware-level data encryption"
   ],
-  "changes": "New version includes:\n- Removed Fingerprint Verification.\n- Added face Recognition.",
+  "changes": "New version includes:\n- Removed Fingerprint Verification.\n- Added Offline Face Recognition.\n- Hardware-level data encryption",
 
   "force_update": false,
   "maintenance_mode": false
