@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.0.0",
-  "updateUrl": "",
-  "changes": ""
+  "latestVersion": "3.0.0",
+  "updateUrl": "https://github.com/balax-24/Internzz_attendance/releases/download/v3.0/Smart.Attend.v3.0.apk",
+  "changes": "New version includes:\n- Enhanced Security: Removed Fingerprint Verification.\n- New Feature: Added Advanced Offline Face Recognition.\n- Stability: General performance improvements."
 }
