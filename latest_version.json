@@ -1,14 +1,17 @@
 {
   "version": "3.0.0",
-  "version_code": 3,
-  "release_date": "2026-04-02",
+  "latestVersion": "3.0.0",
+  
+  "download_url": "https://github.com/balax-24/Internzz_attendance/releases/download/v3.0/Smart.Attend.v3.0.apk",
+  "updateUrl": "https://github.com/balax-24/Internzz_attendance/releases/download/v3.0/Smart.Attend.v3.0.apk",
+  
   "changelog": [
     "Removed Fingerprint Verification",
     "Added Offline Face Recognition",
     "Hardware-level data encryption"
   ],
-  "download_url": "https://github.com/balax-24/Internzz_attendance/releases/download/v3.0/Smart.Attend.v3.0.apk",
-  "min_supported_version": "2.0.0",
+  "changes": "New version includes:\n- Removed Fingerprint Verification.\n- Added face Recognition.",
+
   "force_update": false,
   "maintenance_mode": false
 }
