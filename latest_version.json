@@ -1,16 +1,16 @@
 {
-  "version": "3.0.0",
-  "latestVersion": "3.0.0",
+  "version": "4.1.2",
+  "latestVersion": "4.1.2",
   
   "download_url": "https://github.com/balax-24/Internzz_attendance/releases/download/v3.0/Smart.Attend.v3.0.apk",
   "updateUrl": "https://github.com/balax-24/Internzz_attendance/releases/download/v3.0/Smart.Attend.v3.0.apk",
   
   "changelog": [
-    "Removed Fingerprint Verification",
-    "Added Offline Face Recognition",
-    "Hardware-level data encryption"
+    "Added Analytics Page",
+    "Implemented FCM/Realtime Notification",
+    "Added Outbox Feature for Offline sync"
   ],
-  "changes": "New version includes:\n- Removed Fingerprint Verification.\n- Added Offline Face Recognition.\n- Hardware-level data encryption",
+  "changes": "New version includes:\n- Added Analytics Page.\n- Implemented FCM/Realtime Notification.\n- Added Outbox Feature for Offline sync",
 
   "force_update": false,
   "maintenance_mode": false
