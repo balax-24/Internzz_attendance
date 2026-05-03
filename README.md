@@ -2,7 +2,7 @@
 
 Smart Attend is a professional attendance and campus-operations platform built for colleges and universities. It combines a Flutter mobile app, a Next.js operator web portal, Supabase-backed role security, offline recovery, Face ID workflows, device binding, Bluetooth beacon presence checks, reports, notifications, and audit-ready administration.
 
-Current mobile version: **4.1.2+40102**
+Current mobile version: **4.1.2**
 
 ---
 
